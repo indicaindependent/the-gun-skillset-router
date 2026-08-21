@@ -5,6 +5,10 @@ A chamber with no brief is an empty chamber - the router will not fire it.
 
 **Total action items produced by the 24 briefs:** 241
 
+> Trigger text is sanitised for publication: specific application names are
+> replaced with a description of the domain, so the routing signal stays
+> readable without naming the operator's properties.
+
 ---
 
 
@@ -12,7 +16,7 @@ A chamber with no brief is an empty chamber - the router will not fire it.
 
 | Ch | Skillset | Trigger | Items |
 | ---: | :--- | :--- | ---: |
-| **01** | Geopolitical Analyst / Foreign Policy Scholar / International Relations Specialist | Analysing a conflict or country risk, reading treaties/sanctions, mapping actor motives, anything touching WarHeatMap or the daily geopolitical brief | 13 |
+| **01** | Geopolitical Analyst / Foreign Policy Scholar / International Relations Specialist | Analysing a conflict or country risk, reading treaties/sanctions, mapping actor motives, anything touching the conflict-map application or the daily geopolitical brief | 13 |
 | **02** | Management Consultant (PhD, Organizational Behavior) | Designing a workflow or process, deciding who/what does a job, structuring work, diagnosing why a system of people fails | 7 |
 
 ## Science / Math / Data
@@ -22,7 +26,7 @@ A chamber with no brief is an empty chamber - the router will not fire it.
 | **03** | Computer Scientist | Choosing an algorithm, reasoning about complexity or correctness, anything where the THEORY matters more than the code | 5 |
 | **04** | Mathematician (PhD, Number Theory / Arithmetic Geometry) | Deep mathematical reasoning, proofs, the mathematics underneath cryptographic primitives | 4 |
 | **05** | Principal Data Scientist | Modelling a dataset, statistical or causal inference, designing an experiment, building an ML pipeline | 14 |
-| **06** | Data Visualizer / Information Designer / Quantitative Statistician | Making data legible to a human — charts, dashboards, visual explanation, choosing the honest encoding | 28 |
+| **06** | Data Visualizer / Information Designer / Quantitative Statistician | Making data legible to a human — charts, dashboards, visual explanation, choosing the honest encoding | 24 |
 | **07** | Principal Computational Linguist / NLP Research Scientist | Language-model behaviour, text pipelines, prompt/context design | 6 |
 
 ## Build / Engineering
