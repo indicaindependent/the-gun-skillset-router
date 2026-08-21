@@ -9,7 +9,7 @@
 
 ## What it shows
 
-245 action items extracted from the 24 briefs, grouped by owner and by blast radius.
+241 action items extracted from the 24 briefs, grouped by owner and by blast radius.
 
 ## Design decisions
 

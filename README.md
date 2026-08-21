@@ -61,7 +61,7 @@ Eight steps, two mandatory stops. Both stops are fail-safes rather than delays.
 
 ### The ledger
 
-The 24 briefs produced 245 concrete action items. Left as prose inside 24
+The 24 briefs produced 241 concrete action items. Left as prose inside 24
 documents, they would have evaporated. So they get extracted, assigned an owner,
 and rated by blast radius.
 

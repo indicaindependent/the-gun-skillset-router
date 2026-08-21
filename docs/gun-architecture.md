@@ -127,7 +127,7 @@ journal and a directory listing.
 
 ### The gate was wrong before the briefs were
 
-Six times the checker reported a problem and the checker was the problem:
+Seven times the checker reported a problem and the checker was the problem:
 
 | Reported | Actual cause |
 | :--- | :--- |
@@ -137,6 +137,7 @@ Six times the checker reported a problem and the checker was the problem:
 | A missing mount pin | The pin line wrapped, and the pattern normalised neither wrapping nor quote markers |
 | One brief had five items | Its citation column contained the word "Step", which the header-detection pattern matched, so real rows were discarded as headers |
 | Another had twelve items | It has four. Nested sub-bullets were counted as separate items |
+| #06 had twenty-eight items | It has twenty-four. Its header read `\| Rank \| Requirement \| ...`, matching none of the header keywords, so four header rows counted as items **and** the parser filed the Consequence column as the action |
 
 All six are now permanent regression cases. The standing rule they encode:
 **when a probe reports something broad and alarming, suspect the probe first.**
@@ -164,7 +165,7 @@ known would have inherited every one of them.
 
 ![The Ledger](../assets/exports/findings-ledger.png)
 
-Twenty-four briefs produced 245 concrete action items. Left as prose inside
+Twenty-four briefs produced 241 concrete action items. Left as prose inside
 twenty-four documents, they would have quietly evaporated — the same class of
 failure as a safety switch that never reached the backup copies of the file it
 was meant to guard.

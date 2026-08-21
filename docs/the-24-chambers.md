@@ -3,7 +3,7 @@
 Every chamber is one expert skillset with its own live-researched working brief.
 A chamber with no brief is an empty chamber - the router will not fire it.
 
-**Total action items produced by the 24 briefs:** 245
+**Total action items produced by the 24 briefs:** 241
 
 ---
 
