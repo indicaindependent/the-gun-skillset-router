@@ -1,0 +1,104 @@
+{
+ "_meta": {
+  "generated": "2026-08-21T16:17:23+00:00",
+  "note": "Machine index of every asset. Values are measured from the files, not declared.",
+  "asset_count": 5
+ },
+ "assets": [
+  {
+   "id": "palette-contrast",
+   "group": "branding",
+   "vector": "assets/vectors/branding/palette-contrast.svg",
+   "raster": "assets/exports/palette-contrast.png",
+   "catalog": "catalog/branding/palette-contrast.md",
+   "canvas": {
+    "w": 1100,
+    "h": 760
+   },
+   "type_size": {
+    "min": 13,
+    "max": 36
+   },
+   "solid_background": true,
+   "blur_filters": false,
+   "emoji": 0,
+   "accessible_titles": true
+  },
+  {
+   "id": "24-chamber-revolver",
+   "group": "diagrams",
+   "vector": "assets/vectors/diagrams/24-chamber-revolver.svg",
+   "raster": "assets/exports/24-chamber-revolver.png",
+   "catalog": "catalog/diagrams/24-chamber-revolver.md",
+   "canvas": {
+    "w": 1500,
+    "h": 1290
+   },
+   "type_size": {
+    "min": 14,
+    "max": 40
+   },
+   "solid_background": true,
+   "blur_filters": false,
+   "emoji": 0,
+   "accessible_titles": true
+  },
+  {
+   "id": "findings-ledger",
+   "group": "diagrams",
+   "vector": "assets/vectors/diagrams/findings-ledger.svg",
+   "raster": "assets/exports/findings-ledger.png",
+   "catalog": "catalog/diagrams/findings-ledger.md",
+   "canvas": {
+    "w": 1240,
+    "h": 940
+   },
+   "type_size": {
+    "min": 12,
+    "max": 36
+   },
+   "solid_background": true,
+   "blur_filters": false,
+   "emoji": 0,
+   "accessible_titles": true
+  },
+  {
+   "id": "firing-sequence",
+   "group": "diagrams",
+   "vector": "assets/vectors/diagrams/firing-sequence.svg",
+   "raster": "assets/exports/firing-sequence.png",
+   "catalog": "catalog/diagrams/firing-sequence.md",
+   "canvas": {
+    "w": 1180,
+    "h": 900
+   },
+   "type_size": {
+    "min": 13,
+    "max": 34
+   },
+   "solid_background": true,
+   "blur_filters": false,
+   "emoji": 0,
+   "accessible_titles": true
+  },
+  {
+   "id": "two-layer-architecture",
+   "group": "diagrams",
+   "vector": "assets/vectors/diagrams/two-layer-architecture.svg",
+   "raster": "assets/exports/two-layer-architecture.png",
+   "catalog": "catalog/diagrams/two-layer-architecture.md",
+   "canvas": {
+    "w": 1200,
+    "h": 880
+   },
+   "type_size": {
+    "min": 13,
+    "max": 36
+   },
+   "solid_background": true,
+   "blur_filters": false,
+   "emoji": 0,
+   "accessible_titles": true
+  }
+ ]
+}

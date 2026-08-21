@@ -1,0 +1,35 @@
+{
+ "_meta": {
+  "note": "Controlled vocabulary. Adding a term requires adding it here first."
+ },
+ "groups": {
+  "diagrams": "Explanatory architecture and data diagrams",
+  "branding": "Identity, palette and mark specifications"
+ },
+ "asset_types": [
+  "architecture-diagram",
+  "process-diagram",
+  "data-visualisation",
+  "palette-specification"
+ ],
+ "blast_radius": [
+  "HUMAN-HARM",
+  "CREDENTIAL",
+  "PUBLIC",
+  "ACCESSIBILITY",
+  "INTERNAL"
+ ],
+ "owner_buckets": [
+  "SELF",
+  "PEER AGENT",
+  "SAFETY PATH",
+  "OPERATOR",
+  "DOCTRINE",
+  "TRIAGE"
+ ],
+ "brief_status": [
+  "verified",
+  "nonconforming",
+  "not_researched"
+ ]
+}

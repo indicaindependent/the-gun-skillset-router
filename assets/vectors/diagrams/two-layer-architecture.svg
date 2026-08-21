@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" role="img" aria-labelledby="t d">
+<title id="t">Two-layer skillset architecture</title>
+<desc id="d">Layer 0 is a permanent pinned router identity that never swaps. Layer 1 holds 24 swappable expert mounts, one loaded at a time.</desc>
+<rect width="1200" height="880" fill="#0B1015"/>
+<text x="56" y="70" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="36" font-weight="700" fill="#F3F7F9" text-anchor="start" letter-spacing="3.0">TWO LAYERS</text>
+<text x="56" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#A7B6C2" text-anchor="start" letter-spacing="0.0">Layer 0 never swaps. Layer 1 is the ammunition.</text>
+<line x1="56" y1="122" x2="1144" y2="122" stroke="#33424F" stroke-width="1.5"/>
+<rect x="430" y="152" width="340" height="62" rx="6" fill="#1E2833" stroke="#33424F" stroke-width="1.5"/>
+<text x="600" y="179" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="2.0">THE MASTER</text>
+<text x="600" y="201" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#A7B6C2" text-anchor="middle" letter-spacing="0.0">The operator names the target task</text>
+<path d="M600 214 L600 250 M592 242 L600 252 L608 242" fill="none" stroke="#2DD4E8" stroke-width="2.5"/>
+<rect x="90" y="258" width="1020" height="196" rx="6" fill="#161E27" stroke="#2DD4E8" stroke-width="2.5"/>
+<text x="112" y="288" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#2DD4E8" text-anchor="start" letter-spacing="2.6">LAYER 0</text>
+<text x="112" y="312" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#A7B6C2" text-anchor="start" letter-spacing="1.6">PERMANENT - PINNED - NEVER SWAPPED</text>
+<text x="112" y="348" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="500" fill="#F3F7F9" text-anchor="start" letter-spacing="0.0">Time Management Consultant, Productivity Strategist,</text>
+<text x="112" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="500" fill="#F3F7F9" text-anchor="start" letter-spacing="0.0">Organizational Psychologist AND Distinguished Professor of</text>
+<text x="112" y="392" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="500" fill="#F3F7F9" text-anchor="start" letter-spacing="0.0">Organizational Behavior and Human Performance</text>
+<rect x="700" y="328" width="190" height="46" rx="5" fill="#1E2833" stroke="#33424F" stroke-width="1.5"/>
+<text x="716" y="348" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#2DD4E8" text-anchor="start" letter-spacing="1.4">JOB 1</text>
+<text x="716" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#F3F7F9" text-anchor="start" letter-spacing="0.0">TIME AUTHORITY</text>
+<rect x="902" y="328" width="190" height="46" rx="5" fill="#1E2833" stroke="#33424F" stroke-width="1.5"/>
+<text x="918" y="348" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#2DD4E8" text-anchor="start" letter-spacing="1.4">JOB 2</text>
+<text x="918" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#F3F7F9" text-anchor="start" letter-spacing="0.0">ROUTER OPERATOR</text>
+<text x="112" y="428" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#A7B6C2" text-anchor="start" letter-spacing="0.0">Time is a LIVE TOOL CALL. The prompt timestamp is stale by construction.</text>
+<path d="M600 454 L600 496 M592 488 L600 498 L608 488" fill="none" stroke="#2DD4E8" stroke-width="2.5"/>
+<text x="614" y="482" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#A7B6C2" text-anchor="start" letter-spacing="0.0">spins the chamber</text>
+<rect x="90" y="504" width="1020" height="250" rx="6" fill="#161E27" stroke="#33424F" stroke-width="2"/>
+<text x="112" y="534" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#F3F7F9" text-anchor="start" letter-spacing="2.6">LAYER 1</text>
+<text x="112" y="558" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#A7B6C2" text-anchor="start" letter-spacing="1.6">24 SWAPPABLE EXPERT MOUNTS - ONE LOADED AT A TIME</text>
+<rect x="116" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#2DD4E8" stroke-width="2.5"/>
+<text x="153.0" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">01</text>
+<rect x="194" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#2DD4E8" stroke-width="2.5"/>
+<text x="231.32" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">02</text>
+<rect x="273" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#A78BFA" stroke-width="2.5"/>
+<text x="309.64" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">03</text>
+<rect x="351" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#A78BFA" stroke-width="2.5"/>
+<text x="387.96" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">04</text>
+<rect x="429" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#A78BFA" stroke-width="2.5"/>
+<text x="466.28" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">05</text>
+<rect x="508" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#A78BFA" stroke-width="2.5"/>
+<text x="544.5999999999999" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">06</text>
+<rect x="586" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#A78BFA" stroke-width="2.5"/>
+<text x="622.92" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">07</text>
+<rect x="664" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#4ADE80" stroke-width="2.5"/>
+<text x="701.24" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">08</text>
+<rect x="743" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#4ADE80" stroke-width="2.5"/>
+<text x="779.56" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">09</text>
+<rect x="821" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#4ADE80" stroke-width="2.5"/>
+<text x="857.8799999999999" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">10</text>
+<rect x="899" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#4ADE80" stroke-width="2.5"/>
+<text x="936.1999999999999" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">11</text>
+<rect x="978" y="586" width="74" height="46" rx="5" fill="#1E2833" stroke="#4ADE80" stroke-width="2.5"/>
+<text x="1014.52" y="615" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">12</text>
+<rect x="116" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#4ADE80" stroke-width="2.5"/>
+<text x="153.0" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">13</text>
+<rect x="194" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#FB7185" stroke-width="2.5"/>
+<text x="231.32" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">14</text>
+<rect x="273" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#FB7185" stroke-width="2.5"/>
+<text x="309.64" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">15</text>
+<rect x="351" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#F5A524" stroke-width="2.5"/>
+<text x="387.96" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">16</text>
+<rect x="429" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#F5A524" stroke-width="2.5"/>
+<text x="466.28" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">17</text>
+<rect x="508" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#E87BC8" stroke-width="2.5"/>
+<text x="544.5999999999999" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">18</text>
+<rect x="586" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#E87BC8" stroke-width="2.5"/>
+<text x="622.92" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">19</text>
+<rect x="664" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#E87BC8" stroke-width="2.5"/>
+<text x="701.24" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">20</text>
+<rect x="743" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#7DD3FC" stroke-width="2.5"/>
+<text x="779.56" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">21</text>
+<rect x="821" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#7DD3FC" stroke-width="2.5"/>
+<text x="857.8799999999999" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">22</text>
+<rect x="899" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#7DD3FC" stroke-width="2.5"/>
+<text x="936.1999999999999" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">23</text>
+<rect x="978" y="646" width="74" height="46" rx="5" fill="#1E2833" stroke="#7DD3FC" stroke-width="2.5"/>
+<text x="1014.52" y="675" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#F3F7F9" text-anchor="middle" letter-spacing="0.0">24</text>
+<text x="112" y="726" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#A7B6C2" text-anchor="start" letter-spacing="0.0">Mount pin: "...WHO USES ALL THE BEST, LATEST, MOST EFFICIENT, AND HIGHEST-PERFORMING</text>
+<text x="112" y="745" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#A7B6C2" text-anchor="start" letter-spacing="0.0">METHODS AND PRACTICES FOR THE CURRENT DATE AND TIME."  That last clause requires a live clock.</text>
+<line x1="56" y1="800" x2="1144" y2="800" stroke="#33424F" stroke-width="1.5"/>
+<text x="56" y="828" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#A7B6C2" text-anchor="start" letter-spacing="0.0">Layer 0 is NOT one of the 24. It is the thing that operates them.</text>
+</svg>
