@@ -188,9 +188,39 @@ rated by blast radius.
 
 Classification is **deliberately conservative**. An unmatched item lands in
 TRIAGE rather than being guessed into a bucket, because a misfiled item aimed at
-another system is worse than an unfiled one. Roughly two thirds currently sit in
-TRIAGE, and that number is reported honestly rather than massaged down by
-loosening the rules until it looks better.
+another system is worse than an unfiled one.
+
+At first pass the keyword classifier left **154 of 241 in TRIAGE** — roughly two
+thirds. That number was reported honestly rather than massaged down, and the
+reason it was so high is structural: **ownership depends on which system an item
+touches, and that is frequently absent from its wording.** "Enforce fail-fast
+error escalation" carries no clue that it belongs to another agent's Cloudflare
+Workers.
+
+The wrong fix was available and tempting: widen the patterns until the number
+looked better. That produces *confident misfiling*, which is strictly worse than
+an admitted gap.
+
+The fix taken instead was to record judgement **explicitly** — every one of the
+154 assigned by hand, each with a written reason, in a separate override file
+that the ledger applies on top of the regex. The ledger then reports which owner
+came from a pattern and which from a human:
+
+| Owner | Total | From regex | Assigned by hand |
+| :--- | ---: | ---: | ---: |
+| SELF | 103 | 23 | 80 |
+| PEER AGENT | 84 | 35 | 49 |
+| SAFETY PATH | 32 | 22 | 10 |
+| OPERATOR | 15 | 6 | 9 |
+| DOCTRINE | 7 | 1 | 6 |
+| **TRIAGE** | **0** | — | — |
+
+Two details make this durable rather than cosmetic. The overrides are keyed on a
+**hash of the item's own text**, not on its position — because the ids are
+positional, and the parser fix above shifted every id past the forty-third, which
+would have silently re-pointed a position-keyed map at the wrong rows. And ten
+items carry a status other than open: three **superseded**, three **closed**, four
+already **done**. A finding that no longer applies is marked, never deleted.
 
 ### Blast radius, not severity, sets priority
 
