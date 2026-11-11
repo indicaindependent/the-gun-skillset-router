@@ -3,7 +3,8 @@
 ### A 24-chamber expert routing system, drawn rather than described
 
 This repository is a **visual showcase**. No code, no build, nothing to install —
-just the design of a routing architecture and the vector assets that explain it.
+just the design of the routing architecture behind the Multi-Agent Orchestrator, and the vector
+assets that explain it.
 
 ---
 
@@ -14,11 +15,11 @@ just the design of a routing architecture and the vector assets that explain it.
 Verifiable rather than claimed: the seats that grew out of this design were created two days to
 two weeks later.
 
-    2026-08-21   the-gun-skillset-router   this repository, the design
-    2026-08-23   the-gunslinger            first seat built from it
-    2026-09-03   ka-tet                    the hub, once there was more than one seat
-    2026-09-03   the-second-gunslinger     the second 24-chamber seat
-    2026-09-03   the-archivist             the single-writer seat
+    2026-08-21   the-gun-skillset-router               this repository, the design
+    2026-08-23   gunslinger-multi-agent-orchestrator   first seat built from it
+    2026-09-03   ka-tet                                the hub, once there was more than one seat
+    2026-09-03   the-second-gunslinger                 the second 24-chamber seat
+    2026-09-03   the-archivist                         the single-writer seat
 
 **It is kept deliberately, and it is not maintained as current.** This repository is the
 *record of the idea*, not the running system — the drawings came before any agent existed, and
@@ -27,7 +28,7 @@ it. A thesis with no visible first draft reads as though it arrived finished, an
 
 Where the design is now implemented, and where it has since changed, is documented in the
 **[ka-tet](https://github.com/indicaindependent/ka-tet)** and in
-**[the-gunslinger](https://github.com/indicaindependent/the-gunslinger)**.
+**[gunslinger-multi-agent-orchestrator](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator)**.
 
 It documents how one AI agent decides *which kind of expert to be* before it
 answers, and why that decision is made mechanically instead of by vibe.
