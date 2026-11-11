@@ -15,11 +15,11 @@ assets that explain it.
 Verifiable rather than claimed: the seats that grew out of this design were created two days to
 two weeks later.
 
-    2026-08-21   the-gun-skillset-router               this repository, the design
-    2026-08-23   gunslinger-multi-agent-orchestrator   first seat built from it
-    2026-09-03   ka-tet                                the hub, once there was more than one seat
-    2026-09-03   the-second-gunslinger                 the second 24-chamber seat
-    2026-09-03   the-archivist                         the single-writer seat
+    2026-08-21   the-gun-skillset-router                      this repository, the design
+    2026-08-23   gunslinger-multi-agent-orchestrator          first seat built from it
+    2026-09-03   ka-tet                                       the hub, once there was more than one seat
+    2026-09-03   second-gunslinger-multi-agent-orchestrator   the second 24-chamber seat
+    2026-09-03   the-archivist                                the single-writer seat
 
 **It is kept deliberately, and it is not maintained as current.** This repository is the
 *record of the idea*, not the running system — the drawings came before any agent existed, and
